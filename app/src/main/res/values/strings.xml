@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">smarteventmanager</string>
+    <string name="app_name">Smart Event Manager</string>
+
+    <!-- Event Categories -->
+    <string-array name="event_categories">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Meeting</item>
+        <item>Birthday</item>
+        <item>Other</item>
+    </string-array>
 </resources>
