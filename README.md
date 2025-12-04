@@ -64,7 +64,7 @@ Smart Event Manager is a feature-rich Android application designed to help users
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smart-event-manager.git
+git clone https://github.com/rohittsainii/smart-event-manager.git
 cd smart-event-manager
 ```
 
@@ -258,16 +258,12 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@rohittsainii](https://github.com/rohittsainii)
+- LinkedIn: [Rohit Saini](https://www.linkedin.com/in/rohittsainii)
+- Email: rohittsainii75@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -280,7 +276,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help, please:
 - Open an issue in the GitHub repository
 - Contact via email
-- Check the [Wiki](https://github.com/yourusername/smart-event-manager/wiki) for detailed guides
+- Check the [Wiki](https://github.com/rohittsainii/smart-event-manager/wiki) for detailed guides
 
 ---
 
